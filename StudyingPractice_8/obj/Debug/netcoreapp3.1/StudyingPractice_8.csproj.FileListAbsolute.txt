@@ -1,0 +1,13 @@
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\bin\Debug\netcoreapp3.1\StudyingPractice_8.exe
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\bin\Debug\netcoreapp3.1\StudyingPractice_8.deps.json
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\bin\Debug\netcoreapp3.1\StudyingPractice_8.runtimeconfig.json
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\bin\Debug\netcoreapp3.1\StudyingPractice_8.runtimeconfig.dev.json
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\bin\Debug\netcoreapp3.1\StudyingPractice_8.dll
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\bin\Debug\netcoreapp3.1\StudyingPractice_8.pdb
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\obj\Debug\netcoreapp3.1\StudyingPractice_8.csprojAssemblyReference.cache
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\obj\Debug\netcoreapp3.1\StudyingPractice_8.AssemblyInfoInputs.cache
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\obj\Debug\netcoreapp3.1\StudyingPractice_8.AssemblyInfo.cs
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\obj\Debug\netcoreapp3.1\StudyingPractice_8.csproj.CoreCompileInputs.cache
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\obj\Debug\netcoreapp3.1\StudyingPractice_8.dll
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\obj\Debug\netcoreapp3.1\StudyingPractice_8.pdb
+C:\Users\Maslov Alexander\Studying\Программирование\Учебная практика\StudyingPractice_8\obj\Debug\netcoreapp3.1\StudyingPractice_8.genruntimeconfig.cache
